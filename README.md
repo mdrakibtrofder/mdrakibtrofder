@@ -1,13 +1,12 @@
 ### Assalamu-Alaikum, I am [Md. Rakib Trofder](https://www.linkedin.com/in/md-rakib-trofder-15222318b/) ✨
 
-I am a software engineer who possesses a deep passion for problem-solving and programming. My educational background includes a bachelor's in Software Engineering from the University of Dhaka. During my university years, I actively participated in both problem-solving and software development.
-In summary, my academic and practical experience has provided me with a comprehensive skillset to solve complex problems and develop software solutions.
+Focused on advancing research in Software Engineering and AI, with a strong background in building scalable microservice architectures and automated DevOps pipelines. Dedicated to bridging the gap between theoretical concepts and practical software development.
 
-* 🌍  I'm based in Dhaka, Bangladesh
+* 🌍  I'm based in Saidpur, Nilphamari, Bangladesh
 * 🖥️  See my portfolio at [mdrakibtrofder.github.io](http://mdrakibtrofder.github.io)
-* ✉️  You can contact me at [bsse1129@iit.du.ac.bd](mailto:bsse1129@iit.du.ac.bd)
-* 🚀  I'm currently working on [Streamstech Ltd](http://streamstech.com/)
-* 🧠  I'm learning Next JS, Nest JS
+* ✉️  You can contact me at [mdrakibtrofder@gmail.com](mailto:mdrakibtrofder@gmail.com)
+* 🚀  I'm currently working on [Bangladesh Army University of Science and Technology • Saidpur, Nilphamari, Bangladesh](https://www.baust.edu.bd/)
+* 🧠  I'm working at software architecture & AI agents
 
 <a href="https://www.github.com/mdrakibtrofder" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mdrakibtrofder?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
